@@ -1,0 +1,26 @@
+/* hyperlink rules */
+a {
+    color: #000000;
+}
+a:link {
+    color: #000000;
+}
+a:visited {
+    color: #000000;
+}
+a:hover {
+    color: #000000;
+}
+a:active {
+    color: #000000;
+}
+h2 {
+    color: #000000;
+    font-size: 1.0em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #889a9c;
+}
+p {
+    padding-bottom: 5px;
+}
